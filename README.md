@@ -6,6 +6,10 @@ A professional, responsive dental website built with HTML, CSS, and JavaScript, 
 
 Radiant Dental is a modern website for a dental practice, providing an online presence that highlights expert dental care services. The site aims to build trust with potential patients by presenting information about services, the experienced team of dentists, and ways to get in touch. It features a clean, user-friendly design optimized for both desktop and mobile devices.
 
+## Screenshots
+git push -u origin maingit push -u origin main
+![Hero Section](https://github.com/Daniish-Qureshi/Radiant-Dental-Website/blob/main/Demo.png)
+
 ## Features
 
 ### Core Functionality
